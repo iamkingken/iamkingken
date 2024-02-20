@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth
-- 👀 I’m a Frontend Developer
-- 🌱 I’m currently learning Backend end Development
+- 👀 I’m a full (MERN) stack Developer
+- 🌱 Keen on staying current with industry trends
 - 💞️ I’m looking to collaborate on full stack project 
 - 📫 You can reach me on whatapp +2349037430139
 - 📫 I am a good team player and a zealous problem solover
